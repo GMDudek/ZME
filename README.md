@@ -1,2 +1,4 @@
 # ZME
-Zaawansowane Metody Eksploracji
+# Zaawansowane Metody Eksploracji
+Materiały do zajęć
+
