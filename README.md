@@ -44,7 +44,8 @@ Prowadzący: prof. dr hab. inż. Grzegorz Dudek, gentron@o2.pl, https://gdudek.e
 <b>Wymagania odnośnie sprawozdania</b>
 <ul>
 <li>Sprawozdania przesyłamy w postaci elektronicznej, w pliku pdf pod nazwą</li>
-<br /><em>UM_Nazwisko_SymbolĆwiczenia</em>.pdf
+<br />ZME_<em>Nazwisko_SymbolĆwiczenia</em>.pdf
+<br />gdzie:<em>SymbolĆwiczenia</em> znajduje się na początku każdej instrukcji (np. Mat, DD, LMK, GD)
 
   
 </ul>
