@@ -12,13 +12,4 @@ Wykłady:
  </ul>
 
 
-
-<a href="https://github.com/GMDudek/ZME/blob/main/Wyklad1_UM_IW.pdf">Wykład 2</a>
-
- <font color="green">
-      GeeksforGeeks!
- </font>
-
- <span style="color: #c82828;">Lewy </span>
-
  
