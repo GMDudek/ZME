@@ -1,7 +1,8 @@
-# ZME
 # Zaawansowane Metody Eksploracji
 Materiały do zajęć
 
+Prowadzący: prof. dr hab. inż. Grzegorz Dudek
+gentron@o2.pl
 https://gdudek.el.pcz.pl/
 
 
