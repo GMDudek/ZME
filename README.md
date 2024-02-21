@@ -48,7 +48,7 @@ Prowadzący: prof. dr hab. inż. Grzegorz Dudek, gentron@o2.pl, https://gdudek.e
   
 <br />gdzie: <em>SymbolĆwiczenia</em> znajduje się na początku każdej instrukcji (np. Mat, DD, LMK, GD)
 
-<li>Sprawozdania należy sporzżdzać zgodnie ze wzorem zamieszczonym powyżej. /li>
+<li>Sprawozdania należy sporządzać zgodnie ze wzorem zamieszczonym powyżej. </li>
 <li>Sprawozdanie powinno zawierać:</li>
 <ul>
 <li>A. Cel ćwiczenia.</li>
@@ -59,8 +59,7 @@ Prowadzący: prof. dr hab. inż. Grzegorz Dudek, gentron@o2.pl, https://gdudek.e
 <li>F. Wnioski.</li>
 <li>G. Kod źródłowy programu implementującego rozwiązanie zadania (jeśli nie znalazł się w części D).</li>
 </ul>
-</ul>
-<ul>
+
 <li>W przypadku sekcji dwuosobowych, sprawozdanie (jedno na dwuosobową sekcję) przygotowują obie osoby w sekcji i obie są przygotowane do jego zaliczenia. W przypadku odrabiania ćwiczenia, każda osoba w sekcji wykonuje ćwiczenie oraz sprawozdanie samodzielnie ze zmienionym numerem sekcji – 10+nr_gr (pierwsza osoba w sekcji), 20+nr_gr (druga osoba w sekcji).</li>
 <li>Sprawozdania oddajemy i zaliczamy na następnych zajęciach. Jeśli sprawozdanie oddane lub zaliczane jest później, ocena jest obniżana.</li>
 <li>Treść sprawozdania powinna być czytelna. Należy jasno opisać zadanie i sposób jego rozwiązania oraz dać właściwe wnioski. Kolejne czynności i warianty rozwiązania powinny być opisane w kolejnych punktach sprawozdania (zatytułowanych) tak, aby można było powtórzyć badania i eksperymenty.</li>
