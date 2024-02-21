@@ -43,18 +43,12 @@ Prowadzący: prof. dr hab. inż. Grzegorz Dudek, gentron@o2.pl, https://gdudek.e
 
 <b>Wymagania odnośnie sprawozdania</b>
 <ul>
-<li>Sprawozdania przesyłamy w postaci elektronicznej, w pliku pdf pod nazwą</li>
+<li>Sprawozdania przesyłamy w postaci elektronicznej, w pliku pdf pod nazwą:</li>
 <br />ZME_<em>Nazwisko_SymbolĆwiczenia</em>.pdf
-<br />gdzie:<em>SymbolĆwiczenia</em> znajduje się na początku każdej instrukcji (np. Mat, DD, LMK, GD)
-
   
-</ul>
-<p style="text-align: center; padding-left: 60px;"><br /><strong>UM_<em>Nazwisko</em>_<em>SymbolĆwiczenia</em>_<em>SymbolRoku</em>.pdf</strong></p>
-<p style="padding-left: 60px;"><br />gdzie:<br /><em>SymbolĆwiczenia</em> znajduje się na początku każdej instrukcji (np. Mat, DD, LMK, GD), <br /><em>SymbolRoku</em> zawiera rok, symbol kierunku i oznaczenie "S" dla studiów stacjonarnych lub "NS" dla studiów niestacjonarnych (<em>rok_</em><em>kierunek_</em><em>S/NS</em>)</p>
-<p style="padding-left: 60px;">Przykład prawidłowej nazwy pliku ze sprawozdaniem: UM_Nowak_LMK_3_AiR_S.pdf<br /><strong>W temacie emaila proszę skopiować nazwę pliku ze sprawozdaniem</strong> j.w.</p>
-<p style="padding-left: 60px;">Sprawozdania niespełniające powyższych wymogów nie będą przyjmowane.</p>
-<ul>
-<li>Wzór sprawozdania znajduje się na stronie internetowej. Na stronie tytułowej należy umieścić podstawowe informacje (ściśle według wzoru sprawozdania).</li>
+<br />gdzie: <em>SymbolĆwiczenia</em> znajduje się na początku każdej instrukcji (np. Mat, DD, LMK, GD)
+
+<li>Sprawozdania należy sporzżdzać zgodnie ze wzorem zamieszczonym powyżej. /li>
 <li>Sprawozdanie powinno zawierać:</li>
 <ul>
 <li>A. Cel ćwiczenia.</li>
