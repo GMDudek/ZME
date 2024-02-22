@@ -9,6 +9,7 @@ Prowadzący: prof. dr hab. inż. Grzegorz Dudek, gentron@o2.pl, https://gdudek.e
     <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład1_IW.pdf">Wykład 1</a> - 28.02.24 r.
     <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład2_SUS.pdf">Wykład 2</a> - 6.03.24 r.
     <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład3_UI.pdf">Wykład 3</a> - 13.03.24 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład4_GD.pdf">Wykład 4</a> - 20.03.24 r.
     <li>...</li>
  </ul>
 
@@ -18,7 +19,7 @@ Prowadzący: prof. dr hab. inż. Grzegorz Dudek, gentron@o2.pl, https://gdudek.e
       <br><a href="https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted">Matlab tutorial (zalecane samodzielne wykonanie)</a></br>
       <a href="https://www.mathworks.com/content/dam/mathworks/fact-sheet/matlab-basic-functions-reference.pdf">Zestawienie instrukcji Matlaba</a>
     <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_SOW.pdf">Lab 3</a> - 13.03.24 r.
-    <li>...</li>
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_GD.pdf">Lab 4</a> - 20.03.24 r.
     <li>...</li>
  </ul>
 
