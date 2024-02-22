@@ -59,11 +59,8 @@ Prowadzący: prof. dr hab. inż. Grzegorz Dudek, gentron@o2.pl, https://gdudek.e
 <li>G. Kod źródłowy programu implementującego rozwiązanie zadania (jeśli nie znalazł się w części D).</li>
 </ul>
 
-<li>W przypadku sekcji dwuosobowych, sprawozdanie (jedno na dwuosobową sekcję) przygotowują obie osoby w sekcji i obie są przygotowane do jego zaliczenia. W przypadku odrabiania ćwiczenia, każda osoba w sekcji wykonuje ćwiczenie oraz sprawozdanie samodzielnie ze zmienionym numerem sekcji – 10+nr_gr (pierwsza osoba w sekcji), 20+nr_gr (druga osoba w sekcji).</li>
 <li>Sprawozdania oddajemy i zaliczamy na następnych zajęciach. Jeśli sprawozdanie oddane lub zaliczane jest później, ocena jest obniżana.</li>
 <li>Treść sprawozdania powinna być czytelna. Należy jasno opisać zadanie i sposób jego rozwiązania oraz dać właściwe wnioski. Kolejne czynności i warianty rozwiązania powinny być opisane w kolejnych punktach sprawozdania (zatytułowanych) tak, aby można było powtórzyć badania i eksperymenty.</li>
-<li>Metoda rozwiązania powinna być dokładnie opisana, podać algorytmy, schematy itp.</li>
 <li>Wyniki powinny być zestawione w czytelnej formie, zanalizowane i zinterpretowane.</li>
 <li>Wszystkie wątpliwości związane z ćwiczeniem lub "dziwne" wyniki należy przedyskutować z prowadzącym.</li>
-<li>Należy zwrócić uwagę na staranny układ tekstu sprawozdania, numerację stron itp.</li>
 </ul>
