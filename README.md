@@ -2,7 +2,10 @@
 
 Prowadzący: prof. dr hab. inż. Grzegorz Dudek, gentron@o2.pl, https://gdudek.el.pcz.pl/
 
+
 <a href="https://github.com/GMDudek/ZME/blob/main/wzor_spr_UŁ.docx">Wzór sprawozdania</a>
+
+<a href="https://uniwersytetlodzki-my.sharepoint.com/:f:/g/personal/grzegorz_dudek_wmii_uni_lodz_pl/Ej1pZ_QHcihGndS0Ns8I940BQhyftvHBs23tgA-1n1NEoQ?e=DijdE6">Prześlij sprawozdanie</a>
 
 <b>Wykłady:</b>
   <ul>
