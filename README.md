@@ -7,7 +7,8 @@ Prowadzący: prof. dr hab. inż. Grzegorz Dudek, gentron@o2.pl, https://gdudek.e
 
 <a href="https://uniwersytetlodzki-my.sharepoint.com/:f:/g/personal/grzegorz_dudek_wmii_uni_lodz_pl/Ej1pZ_QHcihGndS0Ns8I940BQhyftvHBs23tgA-1n1NEoQ?e=DijdE6">Prześlij sprawozdanie</a>
 
-<b>Wykłady:</b>
+## Wykłady:
+
   <ul>
     <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład1_IW.pdf">Wykład 1</a> - 28.02.24 r.
     <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład2_SUS.pdf">Wykład 2</a> - 6.03.24 r.
@@ -16,7 +17,7 @@ Prowadzący: prof. dr hab. inż. Grzegorz Dudek, gentron@o2.pl, https://gdudek.e
     <li>...</li>
  </ul>
 
-<b>Ćwiczenia laboratoryjne:</b>
+## Ćwiczenia laboratoryjne:
   <ul>
     <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_Mat.pdf">Lab 1 i 2</a> - 28.02 i 6.03.24 r.
       <br><a href="https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted">Matlab tutorial (zalecane samodzielne wykonanie)</a></br>
@@ -26,12 +27,12 @@ Prowadzący: prof. dr hab. inż. Grzegorz Dudek, gentron@o2.pl, https://gdudek.e
     <li>...</li>
  </ul>
 
-<b>Warunki zaliczenia wykładu</b>
+## Warunki zaliczenia wykładu
 <ul>
 <li>Pozytywne oceny ze wszystkich kartkówek.</li>
 </ul>
  
-<b>Warunki zaliczenia lab</b>
+## Warunki zaliczenia lab
 <ul>
 <li>Obecność na zajęciach laboratoryjnych (dopuszczalna jedna nieobecność).</li>
 <li>Terminowa i samodzielna realizacja ćwiczeń laboratoryjnych i sprawozdań.</li>
@@ -44,7 +45,7 @@ Prowadzący: prof. dr hab. inż. Grzegorz Dudek, gentron@o2.pl, https://gdudek.e
 <li>ocen z zadań dodatkowych.</li>
 </ul>
 
-<b>Wymagania odnośnie sprawozdania</b>
+## Wymagania odnośnie sprawozdania
 <ul>
 <li>Sprawozdania przesyłamy w postaci elektronicznej, w pliku pdf pod nazwą:</li>
 <br />ZME_<em>Nazwisko_SymbolĆwiczenia</em>.pdf
