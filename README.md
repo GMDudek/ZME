@@ -1,6 +1,6 @@
 # Zaawansowane Metody Eksploracji
 
-Prowadzący: prof. dr hab. inż. Grzegorz Dudek, gentron@o2.pl, https://gdudek.el.pcz.pl/
+Prowadzący: prof. dr hab. inż. Grzegorz Dudek, grzegorz.dudek@wmii.uni.lodz.pl, https://gdudek.el.pcz.pl/
 
 
 <a href="https://github.com/GMDudek/ZME/blob/main/wzor_spr_UŁ.docx">Wzór sprawozdania</a>
