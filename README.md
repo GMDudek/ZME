@@ -24,7 +24,7 @@ Sprawozdania przesyłamy na adres j.w. W temacie maila skopiować nazwę pliku p
       <a href="https://www.mathworks.com/content/dam/mathworks/fact-sheet/matlab-basic-functions-reference.pdf">Zestawienie instrukcji Matlaba</a>
     <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_SOW.pdf">Lab 3 (SOW)</a> - 13.03.24 r.
     <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_GD.pdf">Lab 4 (GD)</a> - 20.03.24 r.
-      <br><a href="https://github.com/GMDudek/ZME/blob/main/GD_fane_genetyczne.csv">Dane</a></br>
+      <br><a href="https://github.com/GMDudek/ZME/blob/main/GD_dane_genetyczne.csv">Dane</a></br>
     <li>...</li>
  </ul>
 
