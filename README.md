@@ -19,11 +19,12 @@ Sprawozdania przesyłamy na adres j.w. W temacie maila skopiować nazwę pliku p
 
 ## Ćwiczenia laboratoryjne:
   <ul>
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_Mat.pdf">Lab 1 i 2</a> - 28.02 i 6.03.24 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_Mat.pdf">Lab 1 i 2 (Mat)</a> - 28.02 i 6.03.24 r.
       <br><a href="https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted">Matlab tutorial (zalecane samodzielne wykonanie)</a></br>
       <a href="https://www.mathworks.com/content/dam/mathworks/fact-sheet/matlab-basic-functions-reference.pdf">Zestawienie instrukcji Matlaba</a>
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_SOW.pdf">Lab 3</a> - 13.03.24 r.
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_GD.pdf">Lab 4</a> - 20.03.24 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_SOW.pdf">Lab 3 (SOW)</a> - 13.03.24 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_GD.pdf">Lab 4 (GD)</a> - 20.03.24 r.
+      <br><a href="https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted">Matlab tutorial (zalecane samodzielne wykonanie)</a></br>
     <li>...</li>
  </ul>
 
