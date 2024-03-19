@@ -30,7 +30,7 @@ Sprawozdania przesyłamy na adres j.w. W temacie maila skopiować nazwę pliku p
 
 ## Warunki zaliczenia wykładu
 <ul>
-<li>Pozytywne oceny ze wszystkich kartkówek.</li>
+<li>Egzamin.</li>
 </ul>
  
 ## Warunki zaliczenia lab
