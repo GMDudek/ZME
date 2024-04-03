@@ -14,6 +14,7 @@ Sprawozdania przesyłamy na adres j.w. W temacie maila skopiować nazwę pliku p
     <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład2_SUS.pdf">Wykład 2</a> - 6.03.24 r.
     <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład3_UD.pdf">Wykład 3</a> - 13.03.24 r.
     <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład4_GD.pdf">Wykład 4</a> - 20.03.24 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład5_DD.pdf">Wykład 5</a> - 03.04.24 r.
     <li>...</li>
  </ul>
 
