@@ -10,11 +10,12 @@ Sprawozdania przesyłamy na adres j.w. W temacie maila skopiować nazwę pliku p
 ## Wykłady:
 
   <ul>
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład1_IW.pdf">Wykład 1</a> - 28.02.24 r.
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład2_SUS.pdf">Wykład 2</a> - 6.03.24 r.
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład3_UD.pdf">Wykład 3</a> - 13.03.24 r.
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład4_GD.pdf">Wykład 4</a> - 20.03.24 r.
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład5_DD.pdf">Wykład 5</a> - 03.04.24 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład1_IW.pdf">Wykład 1 (informacje wstępne)</a> - 28.02.24 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład2_SUS.pdf">Wykład 2 (systemy uczace się)</a> - 6.03.24 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład3_UD.pdf">Wykład 3 (uczenie sie danych)</a> - 13.03.24 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład4_GD.pdf">Wykład 4 (grupowanie danych)</a> - 20.03.24 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład5_DD.pdf">Wykład 5 (drzewa decyzyjne)</a> - 03.04.24 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład6_SN.pdf">Wykład 6 (sieci neuronowe)</a> - 10.04.24 r.  
     <li>...</li>
  </ul>
 
@@ -24,8 +25,9 @@ Sprawozdania przesyłamy na adres j.w. W temacie maila skopiować nazwę pliku p
       <br><a href="https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted">Matlab tutorial (zalecane samodzielne wykonanie)</a></br>
       <a href="https://www.mathworks.com/content/dam/mathworks/fact-sheet/matlab-basic-functions-reference.pdf">Zestawienie instrukcji Matlaba</a>
     <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_SOW.pdf">Lab 3 (SOW)</a> - 13.03.24 r.
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_GD.pdf">Lab 4 (GD)</a> - 20.03 i 27.03.24 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_GD.pdf">Lab 4 (GD)</a> - 20.03 i 03.04.24 r.
       <br><a href="https://github.com/GMDudek/ZME/blob/main/GD_dane_genetyczne.csv">Dane</a></br>
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_DD.pdf">Lab 5 (DD)</a> - 10.04 i 17.04.24 r.
     <li>...</li>
  </ul>
 
