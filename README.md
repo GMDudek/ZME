@@ -28,6 +28,8 @@ Sprawozdania przesyłamy na adres j.w. W temacie maila skopiować nazwę pliku p
     <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_GD.pdf">Lab 4 (GD)</a> - 20, 03.04.24 r.
       <br><a href="https://github.com/GMDudek/ZME/blob/main/GD_dane_genetyczne.csv">Dane</a></br>
     <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_DD.pdf">Lab 5 (DD)</a> - 10, 17, 24.04.24 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_MLP.pdf">Lab 6 (MLP)</a> - 8, 15.05.24 r.
+      <br><a href="https://playground.tensorflow.org/">Playground Tensorflow (zalecane poeksperymentowanie z sieciami neuronowymi)</a></br>
     <li>...</li>
  </ul>
 
