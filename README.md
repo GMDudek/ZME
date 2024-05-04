@@ -15,7 +15,8 @@ Sprawozdania przesyłamy na adres j.w. W temacie maila skopiować nazwę pliku p
     <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład3_UD.pdf">Wykład 3 (uczenie się danych)</a> - 13.03.24 r.
     <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład4_GD.pdf">Wykład 4 (grupowanie danych)</a> - 20.03.24 r.
     <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład5_DD.pdf">Wykład 5 (drzewa decyzyjne)</a> - 03.04.24 r.
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład6_SN.pdf">Wykład 6 (sieci neuronowe)</a> - 10, 17, 24.04.24 r. 
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład6_SN.pdf">Wykład 6 (sieci neuronowe)</a> - 10, 17, 24.04.24 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład7_KSN.pdf">Wykład 7 (konwolucyje sieci neuronowe)</a> - 8.05.24 r.
     <li>...</li>
  </ul>
 
