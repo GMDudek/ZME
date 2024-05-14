@@ -5,7 +5,7 @@ Prowadzący: prof. dr hab. inż. Grzegorz Dudek, grzegorz.dudek@wmii.uni.lodz.pl
 
 <a href="https://github.com/GMDudek/ZME/blob/main/wzor_spr_UŁ.docx">Wzór sprawozdania</a>
 
-Sprawozdania przesyłamy na adres j.w. W temacie maila skopiować nazwę pliku pdf (ZME_...pdf)
+Sprawozdania przesyłamy na adres j.w. W temacie maila proszę skopiować nazwę pliku pdf (ZME_...pdf)
 
 ## Wykłady:
 
