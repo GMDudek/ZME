@@ -17,6 +17,8 @@ Sprawozdania przesyłamy na adres j.w. W temacie maila proszę skopiować nazwę
     <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład5_DD.pdf">Wykład 5 (drzewa decyzyjne)</a> - 03.04.24 r.
     <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład6_SN.pdf">Wykład 6 (sieci neuronowe)</a> - 10, 17, 24.04.24 r.
     <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład7_CNN.pdf">Wykład 7 (konwolucyje sieci neuronowe)</a> - 8.05.24 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład8_PSC.pdf">Wykład 8 (predykcja szeregów czasowych)</a> - 15.05.24 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład9_RNN.pdf">Wykład 9 (rekurencyjne sieci neuronowe)</a> - 22.05.24 r.
     <li>...</li>
  </ul>
 
