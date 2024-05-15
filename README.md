@@ -60,7 +60,7 @@ Sprawozdania przesyłamy na adres j.w. W temacie maila proszę skopiować nazwę
 <li>Sprawozdania przesyłamy w postaci elektronicznej, w pliku pdf pod nazwą:</li>
 <br />ZME_<em>Nazwisko_SymbolĆwiczenia</em>.pdf
   
-<br />gdzie: <em>SymbolĆwiczenia</em> znajduje się na początku każdej instrukcji (np. Mat, DD, LMK, GD)
+<br />gdzie: <em>SymbolĆwiczenia</em> znajduje się na początku każdej instrukcji (np. Mat, DD, GD)
 
 <li>Sprawozdania należy sporządzać zgodnie ze wzorem zamieszczonym powyżej. </li>
 <li>Sprawozdanie powinno zawierać:</li>
