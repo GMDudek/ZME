@@ -36,7 +36,6 @@ Sprawozdania przesyłamy na adres j.w. W temacie maila proszę skopiować nazwę
       <br><a href="https://playground.tensorflow.org/">Playground Tensorflow (zalecane poeksperymentowanie z sieciami neuronowymi)</a></br>
     <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_CNN.pdf">Lab 7 (CNN)</a> - 15, 22.05.24 r.
     <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_RNN.pdf">Lab 8 (RNN)</a> - 29.05, 5.06.24 r.
-    <li>...</li>
  </ul>
 
 ## Warunki zaliczenia wykładu
