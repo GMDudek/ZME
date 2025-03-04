@@ -59,7 +59,7 @@ Sprawozdania przesyłamy na adres j.w. W temacie maila proszę skopiować nazwę
 <li>Sprawozdania przesyłamy w postaci elektronicznej, w pliku pdf pod nazwą:</li>
 <br />ZME_<em>Nazwisko_SymbolĆwiczenia</em>.pdf
   
-<br />gdzie: <em>SymbolĆwiczenia</em> znajduje się na początku każdej instrukcji (np. Mat, DD, GD)
+<br />gdzie: <em>SymbolĆwiczenia</em> znajduje się na początku każdej instrukcji (np. SOW, DD, GD)
 
 <li>Sprawozdania należy sporządzać zgodnie ze wzorem zamieszczonym powyżej. </li>
 <li>Sprawozdanie powinno zawierać:</li>
@@ -67,14 +67,12 @@ Sprawozdania przesyłamy na adres j.w. W temacie maila proszę skopiować nazwę
 <li>A. Cel ćwiczenia.</li>
 <li>B. Treść zadania.</li>
 <li>C. Część teoretyczną.</li>
-<li>D. Metodykę rozwiązania zadania, opis algorytmów, metod, danych.</li>
-<li>E. Zestawienie i omówienie wyników.</li>
-<li>F. Wnioski.</li>
-<li>G. Kod źródłowy programu implementującego rozwiązanie zadania (jeśli nie znalazł się w części D).</li>
+<li>D. Raport z wykonania ćwiczenia. Dla każdego punktu: polecenia Pythona, wyniki (tabele, wykresy), komentarz.</li>
+<li>E. Wnioski.</li>
 </ul>
 
 <li>Sprawozdania oddajemy i zaliczamy na następnych zajęciach. Jeśli sprawozdanie oddane lub zaliczane jest później, ocena jest obniżana.</li>
-<li>Treść sprawozdania powinna być czytelna. Należy jasno opisać zadanie i sposób jego rozwiązania oraz dać właściwe wnioski. Kolejne czynności i warianty rozwiązania powinny być opisane w kolejnych punktach sprawozdania (zatytułowanych) tak, aby można było powtórzyć badania i eksperymenty.</li>
+<li>Treść sprawozdania powinna być czytelna. Należy jasno opisać zadanie i sposób jego rozwiązania oraz dać właściwe wnioski. Proszę stosować numerację zadań zgodną z instrukcją.</li>
 <li>Wyniki powinny być zestawione w czytelnej formie, zanalizowane i zinterpretowane.</li>
 <li>Wszystkie wątpliwości związane z ćwiczeniem lub "dziwne" wyniki należy przedyskutować z prowadzącym.</li>
 </ul>
