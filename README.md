@@ -25,15 +25,15 @@ Sprawozdania przesyłamy na adres j.w. W temacie maila proszę skopiować nazwę
 
 ## Ćwiczenia laboratoryjne:
   <ul>
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_SOW.pdf">Lab 3 (SOW)</a> - 05, 12.03.25 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_SOW.pdf">Lab 1 (SOW)</a> - 05, 12.03.25 r.
       <br><a href="https://github.com/GMDudek/ZME/blob/main/carbig.csv">Dane</a></br>
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_GD.pdf">Lab 4 (GD)</a> - 19, 26.03.24 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_GD.pdf">Lab 2 (GD)</a> - 19, 26.03.24 r.
       <br><a href="https://github.com/GMDudek/ZME/blob/main/GD_dane_genetyczne.csv">Dane</a></br>
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_DD.pdf">Lab 5 (DD)</a> 
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_WP.pdf">Lab 6 (WP)</a> 
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_DD.pdf">Lab 3 (DD)</a> 
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_WP.pdf">Lab 4 (WP)</a> 
       <br><a href="https://playground.tensorflow.org/">Playground Tensorflow (zalecane poeksperymentowanie z sieciami neuronowymi)</a></br>
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_CNN.pdf">Lab 7 (CNN)</a> 
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_RNN.pdf">Lab 8 (RNN)</a> 
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_CNN.pdf">Lab 5 (CNN)</a> 
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_RNN.pdf">Lab 6 (RNN)</a> 
  </ul>
 
 ## Warunki zaliczenia wykładu
