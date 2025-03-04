@@ -25,17 +25,15 @@ Sprawozdania przesyłamy na adres j.w. W temacie maila proszę skopiować nazwę
 
 ## Ćwiczenia laboratoryjne:
   <ul>
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_Mat.pdf">Lab 1 i 2 (Mat)</a> - 28, 6.03.24 r.
-      <br><a href="https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted">Matlab tutorial (zalecane samodzielne wykonanie)</a></br>
-      <a href="https://www.mathworks.com/content/dam/mathworks/fact-sheet/matlab-basic-functions-reference.pdf">Zestawienie instrukcji Matlaba</a>
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_SOW.pdf">Lab 3 (SOW)</a> - 13.03.24 r.
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_GD.pdf">Lab 4 (GD)</a> - 20, 03.04.24 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_SOW.pdf">Lab 3 (SOW)</a> - 05, 12.03.25 r.
+      <br><a href="https://github.com/GMDudek/ZME/blob/main/carbig.csv">Dane</a></br>
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_GD.pdf">Lab 4 (GD)</a> - 19, 26.03.24 r.
       <br><a href="https://github.com/GMDudek/ZME/blob/main/GD_dane_genetyczne.csv">Dane</a></br>
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_DD.pdf">Lab 5 (DD)</a> - 10, 17, 24.04.24 r.
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_WP.pdf">Lab 6 (WP)</a> - 8, 15.05.24 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_DD.pdf">Lab 5 (DD)</a> 
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_WP.pdf">Lab 6 (WP)</a> 
       <br><a href="https://playground.tensorflow.org/">Playground Tensorflow (zalecane poeksperymentowanie z sieciami neuronowymi)</a></br>
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_CNN.pdf">Lab 7 (CNN)</a> - 15, 22.05.24 r.
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_RNN.pdf">Lab 8 (RNN)</a> - 29.05, 5.06.24 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_CNN.pdf">Lab 7 (CNN)</a> 
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_RNN.pdf">Lab 8 (RNN)</a> 
  </ul>
 
 ## Warunki zaliczenia wykładu
