@@ -10,17 +10,17 @@ Sprawozdania przesyłamy na adres j.w. W temacie maila proszę skopiować nazwę
 ## Wykłady:
 
   <ul>
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład1_IW.pdf">Wykład 1 (informacje wstępne)</a> - 28.02.24 r.
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład2_SUS.pdf">Wykład 2 (systemy uczące się)</a> - 6.03.24 r.
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład3_UD.pdf">Wykład 3 (uczenie się danych)</a> - 13.03.24 r.
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład4_GD.pdf">Wykład 4 (grupowanie danych)</a> - 20.03.24 r.
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład5_DD.pdf">Wykład 5 (drzewa decyzyjne)</a> - 03.04.24 r.
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład6_SN.pdf">Wykład 6 (sieci neuronowe)</a> - 10, 17, 24.04.24 r.
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład7_CNN.pdf">Wykład 7 (konwolucyje sieci neuronowe)</a> - 8.05.24 r.
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład8_PSC.pdf">Wykład 8 (predykcja szeregów czasowych)</a> - 15.05.24 r.
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład9_RNN.pdf">Wykład 9 (rekurencyjne sieci neuronowe)</a> - 22, 29.05.24 r.
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład10_SVM.pdf">Wykład 10 (maszyna wektorów nośnych)</a> - 5.06.24 r.
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład11_SA.pdf">Wykład 11 (selekcja atrybutów)</a> - 5.06.24 r.  
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład1_IW.pdf">Wykład 1 (informacje wstępne)</a> - 05.03.25 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład2_SUS.pdf">Wykład 2 (systemy uczące się)</a> - 12.03.25 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład3_UD.pdf">Wykład 3 (uczenie się danych)</a> - 19.03.25 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład4_GD.pdf">Wykład 4 (grupowanie danych)</a> - 26.03.25 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład5_DD.pdf">Wykład 5 (drzewa decyzyjne)</a> - 02.04.25 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład6_SN.pdf">Wykład 6 (sieci neuronowe)</a> 
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład7_CNN.pdf">Wykład 7 (konwolucyje sieci neuronowe)</a> 
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład8_PSC.pdf">Wykład 8 (predykcja szeregów czasowych)</a> 
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład9_RNN.pdf">Wykład 9 (rekurencyjne sieci neuronowe)</a> 
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład10_SVM.pdf">Wykład 10 (maszyna wektorów nośnych)</a> 
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład11_SA.pdf">Wykład 11 (selekcja atrybutów)</a> 
  </ul>
 
 ## Ćwiczenia laboratoryjne:
