@@ -15,10 +15,10 @@ Sprawozdania przesyłamy na adres j.w. W temacie maila proszę skopiować nazwę
     <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład3_UD.pdf">Wykład 3 (uczenie się danych)</a> - 19.03.25 r.
     <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład4_GD.pdf">Wykład 4 (grupowanie danych)</a> - 26.03.25 r.
     <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład5_DD.pdf">Wykład 5 (drzewa decyzyjne)</a> - 02.04.25 r.
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład6_SN.pdf">Wykład 6 (sieci neuronowe)</a> 
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład7_CNN.pdf">Wykład 7 (konwolucyje sieci neuronowe)</a> 
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład8_PSC.pdf">Wykład 8 (predykcja szeregów czasowych)</a> 
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład9_RNN.pdf">Wykład 9 (rekurencyjne sieci neuronowe)</a> 
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład6_SN.pdf">Wykład 6 (sieci neuronowe)</a> - 23, 30.04.25 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład7_CNN.pdf">Wykład 7 (konwolucyje sieci neuronowe)</a> - 07.05.25 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład8_PSC.pdf">Wykład 8 (predykcja szeregów czasowych)</a> - 14.05.25 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład9_RNN.pdf">Wykład 9 (rekurencyjne sieci neuronowe)</a> - 
     <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład10_SVM.pdf">Wykład 10 (maszyna wektorów nośnych)</a> 
     <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład11_SA.pdf">Wykład 11 (selekcja atrybutów)</a> 
  </ul>
@@ -28,12 +28,12 @@ Sprawozdania przesyłamy na adres j.w. W temacie maila proszę skopiować nazwę
     <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_SOW.pdf">Lab 1 (SOW)</a> - 05, 12.03.25 r.
       <br><a href="https://github.com/GMDudek/ZME/blob/main/carbig.csv">Dane</a></br>
     <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_GD.pdf">Lab 2 (GD)</a> - 19, 26.03.24 r.
-      <br><a href="https://github.com/GMDudek/ZME/blob/main/GD_dane_genetyczne.csv">Dane</a></br>
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_DD.pdf">Lab 3 (DD)</a> 
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_WP.pdf">Lab 4 (WP)</a> 
+      <br><a href="https://github.com/GMDudek/ZME/blob/main/GD_dane_genetyczne.csv">Dane</a></br> 
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_DD.pdf">Lab 3 (DD)</a> - 02, 23.04.25 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_WP.pdf">Lab 4 (WP)</a> - 30.04, 07.05.25 r. 
       <br><a href="https://playground.tensorflow.org/">Playground Tensorflow (zalecane poeksperymentowanie z sieciami neuronowymi)</a></br>
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_CNN.pdf">Lab 5 (CNN)</a> 
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_RNN.pdf">Lab 6 (RNN)</a> 
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_CNN.pdf">Lab 5 (CNN)</a> - 14, 21.05.25 r.
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/Lab_RNN.pdf">Lab 6 (RNN)</a> 28.05, 04.06.25 r.
  </ul>
 
 ## Warunki zaliczenia wykładu
