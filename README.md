@@ -12,7 +12,7 @@ Sprawozdania przesyłamy na adres j.w. W temacie maila proszę skopiować nazwę
   <ul>
     <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład1_IW.pdf">Wykład 1 (informacje wstępne)</a>
     <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład2_SUS.pdf">Wykład 2 (systemy uczące się)</a> 
-    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład3_UD.pdf">Wykład 3 (uczenie się danych)</a> 
+    <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład3_UD.pdf">Wykład 3 (uczenie się na danych)</a> 
     <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład4_GD.pdf">Wykład 4 (grupowanie danych)</a> 
     <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład5_DD.pdf">Wykład 5 (drzewa decyzyjne)</a> 
     <li><a href="https://github.com/GMDudek/ZME/blob/main/ZME_wykład6_SN.pdf">Wykład 6 (sieci neuronowe)</a> 
