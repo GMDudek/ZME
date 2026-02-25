@@ -61,6 +61,7 @@ Sprawozdania przesyłamy na adres j.w. W temacie maila proszę skopiować nazwę
   
 <br />gdzie: <em>SymbolĆwiczenia</em> znajduje się na początku każdej instrukcji (np. SOW, DD, GD)
 
+<li>W temacie maila proszę skopiować nazwę pliku. </li>
 <li>Sprawozdania należy sporządzać zgodnie ze wzorem zamieszczonym powyżej. </li>
 <li>Sprawozdanie powinno zawierać:</li>
 <ul>
